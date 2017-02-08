@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Inventory</string>
+
+    <string name="category_overview">Inventory</string>
+
+
+    <string name="hint_item_name">Item Name</string>
+    <string name="label_name">Item</string>
+    <string name="label_quantity">Quantity</string>
+    <string name="label_price">Price</string>
+    <string name="hint_item_quantity">Quantity</string>
+    <string name="hint_item_price">Price</string>
+    <string name="edit_item_price">Price</string>
+    <string name="editor_activity_title_new_item">New Item</string>
+    <string name="editor_activity_title_update_item">Update Item</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <!-- Label for editor menu option to save pet and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+    <!-- Toast message in editor when new pet has been successfully inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_item_successful">Item saved</string>
+
+    <!-- Toast message in editor when new pet has failed to be inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_item_failed">Error with saving item</string>
+    <string name="action_delete">Delete</string>
+
+    <string name="delete_dialog_msg">Delete this Item?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+
+    <!-- Toast message in editor when current pet was successfully deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_pet_successful">Pet deleted</string>
+    <string name="out_of_stock">Out of Stock</string>
+
+    <!-- Toast message in editor when current pet has failed to be deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_pet_failed">Error with deleting pet</string>
+
+
+
+
+
+</resources>
